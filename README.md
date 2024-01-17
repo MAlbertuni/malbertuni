@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Marcelo Albertuni</h1>
 
-So, actualy i'm working with C#, .NET, Delphi 6 and JavaScript to, a i'm helping with the DevOps so many times, all this i praticed working as a Junior Developer in Coopavel
+So, actualy i'm working with C#, .NET, Delphi 6, JavaScript and some part with DevOps, all this i praticed working as a Junior Developer in Coopavel, my objective is going to the Architecture in Web, APIs and DevOps, so this is what i wish :)
 
 Linkedin: https://www.linkedin.com/in/marcelo-albertuni-52b443238/
 
